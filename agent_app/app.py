@@ -5,7 +5,7 @@ import _snowflake
 from snowflake.snowpark.context import get_active_session
 from snowflake.snowpark.functions import col, lit, concat_ws, lower
 
-st.title('Chat with your Cortex Agent! :ninja:')
+st.title('Chat with Agent Smith 🕶️')
 
 # Configuration
 API_ENDPOINT = "/api/v2/cortex/agent:run"
